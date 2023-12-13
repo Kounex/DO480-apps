@@ -9,3 +9,6 @@ images:
 
 bases:
   - ../../base
+
+resources:
+  - route.yaml
